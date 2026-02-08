@@ -4,4 +4,4 @@ def addition(a, b):
 def soustraction(a, b):
     return a - b
 
-print(addition(3, 5))
+print(addition(3, 5)*soustraction(10, 20))
