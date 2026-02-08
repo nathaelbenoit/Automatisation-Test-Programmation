@@ -1,0 +1,26 @@
+person_id,first_name,last_name,email,birth_date,city,country
+1,John,Doe,john.doe@email.com,1985-03-15,Paris,France
+2,Jane,Smith,jane.smith@email.com,1990-07-22,Lyon,France
+3,Pierre,Martin,pierre.martin@email.com,1978-11-08,Marseille,France
+4,Marie,Dupont,marie.dupont@email.com,1995-01-30,Toulouse,France
+5,Jean,Bernard,jean.bernard@email.com,1982-06-14,Nice,France
+6,Sophie,Petit,sophie.petit@email.com,1988-09-25,Nantes,France
+7,Michel,Durand,michel.durand@email.com,1975-12-03,Strasbourg,France
+8,Isabelle,Leroy,isabelle.leroy@email.com,1992-04-18,Montpellier,France
+9,Philippe,Moreau,philippe.moreau@email.com,1980-08-07,Bordeaux,France
+10,Catherine,Simon,catherine.simon@email.com,1987-02-28,Lille,France
+11,François,Laurent,francois.laurent@email.com,1993-05-12,Rennes,France
+12,Nathalie,Lefebvre,nathalie.lefebvre@email.com,1984-10-21,Reims,France
+13,Alain,Michel,alain.michel@email.com,1979-07-09,Le Havre,France
+14,Christine,Garcia,christine.garcia@email.com,1991-03-16,Saint-Etienne,France
+15,Patrick,David,patrick.david@email.com,1976-11-27,Toulon,France
+16,Sylvie,Bertrand,sylvie.bertrand@email.com,1989-08-04,Grenoble,France
+17,Daniel,Roux,daniel.roux@email.com,1983-01-19,Dijon,France
+18,Monique,Vincent,monique.vincent@email.com,1994-06-08,Angers,France
+19,Jacques,Fournier,jacques.fournier@email.com,1977-09-30,Nimes,France
+20,Anne,Morel,anne.morel@email.com,1986-04-14,Villeurbanne,France
+21,Robert,Girard,invalid-email,1981-12-25,Le Mans,France
+22,Brigitte,Andre,brigitte.andre@email.com,1990-02-11,Aix-en-Provence,France
+23,Claude,Mercier,,1985-07-03,Clermont-Ferrand,France
+24,Martine,Blanc,martine.blanc@email.com,1988-10-17,Brest,France
+25,Gilles,Guerin,gilles.guerin@email.com,1992-05-29,Limoges,France
